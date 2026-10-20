@@ -6,7 +6,7 @@ The project integrates data from **Excel/CSV files and a MySQL database**, follo
 ---
 
 ## 📥 Download Project
-[Business Insights 360-Power BI Project](https://1drv.ms/u/c/a90ff85368c1d890/IQDtYtUPZ9_tTo_jLn7q-S_WAegtMMNCFNL52GKeoINGBks?e=thtbHq)
+[Business Insights 360-Power BI Project](https://1drv.ms/u/c/a90ff85368c1d890/IQDtYtUPZ9_tTo_jLn7q-S_WAegtMMNCFNL52GKeoINGBks)
 
 
 ---
